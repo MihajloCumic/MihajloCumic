@@ -1,6 +1,6 @@
 # Hi there! I'm Mihajlo 👋
 
-I'm a 4th-year Computer Science student, passionate about backend development, distributed systems, and building scalable solutions.
+ I'm a 4th-year Computer Science student, passionate about backend development, distributed systems, and building scalable solutions.
 
 ## 🚀 Skills & Technologies
 - **Languages:** Java, C, JavaScript, TypeScript
@@ -8,7 +8,7 @@ I'm a 4th-year Computer Science student, passionate about backend development, d
 - **Tools & Platforms:** Docker, Git/Github, Maven, Gradle, Kafka, Node.js
 - **Databases:** PostgreSQL, MySql, Redis, MongoDB
 
-## 🛠️ Projects
+# 🛠️ Projects
 
 ## Web Development & Microservices Projects
 ### Backend for a banking application [(repo)](https://github.com/MihajloCumic/Banka-2-Backend)
