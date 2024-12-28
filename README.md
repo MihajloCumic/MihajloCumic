@@ -5,22 +5,27 @@ I'm a 4th-year Computer Science student, passionate about backend development, d
 ## 🚀 Skills & Technologies
 - **Languages:** Java, C, JavaScript, TypeScript
 - **Frameworks:** Spring Boot, Angular, Vue.js
-- **Tools & Platforms:** Docker, Git/Github, Maven, Gradle, Node.js, Kafka
+- **Tools & Platforms:** Docker, Git/Github, Maven, Gradle, Kafka, Node.js
 - **Databases:** PostgreSQL, MySql, Redis, MongoDB
 
 ## 🛠️ Projects
 
-### 2. **[Code Completion Program](https://github.com/MihajloCumic/CodeCompletion)**
-   - A Java-based program for code completion functionality. The tool integrates with Java source code to suggest completions for various code snippets based on context.
-
-### 3. **[Titanic Classification](https://github.com/MihajloCumic/Titanic-Classification)**
-   - A manually implemented neural network used to solve the Titanic dataset classification problem, focusing on building a neural network from scratch using matrix operations.
-
-### 4. **[Hacker News Data Processor](https://github.com/MihajloCumic/HackerNewsDataProcessor)**
-   - A system that fetches data from the Hacker News API using Kafka producer/consumer and writes data into CSV files, categorized by type (job, story, comment).
-
-### 5. **[Java SQL Query Generator](https://github.com/MihajloCumic/JavaSQLQueryGenerator)**
-   - A Java project that generates SQL queries from user input using a GUI built with Swing. The program includes a compiler and a validator that checks if the input query is correct.
+## Web Development & Microservices Projects
+### Backend for a banking application [(repo)](https://github.com/MihajloCumic/Banka-2-Backend)
+- The backend for this banking application is built using Java and Spring Boot, following a microservices architecture.
+- Technologies used: `Java`, `Spring Boot`, `PostgreSQL`,`RabbitMQ`, `Redis` ,`Docker`, `Kubernetes`, `JUnit`, `Cucumber` 
+### Robot Vacuum Management System
+- Web application that simulates the management of vacuum cleaner robots.
+- [**Vacuum Service**](https://github.com/MihajloCumic/Vacuum-Service)
+   - REST API Service that allows users to add, control, and schedule operations for vacuum cleaners, while managing user permissions for specific actions.   
+- [**User Managment Service**](https://github.com/MihajloCumic/User-Managment-System)
+- [**Frontend**](https://github.com/MihajloCumic/Vacuum-Service-Frontend)
+- Technologies used: `Java`, `Spring Boot`, `PostgreSQL`,`RabbitMQ`, `Angular`
+### Bookstore Web Application
+- [**Backend**](https://github.com/MihajloCumic/BookstoreBackend)
+   - The backend consists of three microservices: app.js (handles core application logic), app_auth.js (manages authentication), and app_rest.js (exposes REST APIs).
+- [**Frontend**](https://github.com/MihajloCumic/bookstore_vue_frontend)
+- Technologies used: `JavaScript`, `Node.js`, `Express.js`, `MariaDB`, `Vue.js` 
 
 ## 🎓 Education
 - **4th-Year Computer Science Student**  
