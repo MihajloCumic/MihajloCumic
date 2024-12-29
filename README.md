@@ -1,6 +1,4 @@
 # Hi there! I'm Mihajlo 👋
-
-I'm a 4th-year Computer Science student, passionate about backend development, distributed systems, and building scalable solutions.
 # 🛠️ Projects
 
 ### `Web Development & Microservices Projects`
@@ -20,6 +18,25 @@ I'm a 4th-year Computer Science student, passionate about backend development, d
    - The backend consists of three microservices: app.js (handles core application logic), app_auth.js (manages authentication), and app_rest.js (exposes REST APIs).
 - [**Frontend**](https://github.com/MihajloCumic/bookstore_vue_frontend)
 - Technologies used: `JavaScript`, `Node.js`, `Express.js`, `MariaDB`, `Vue.js`
+
+##
+### `Concurrent and Distributed Systems`
+***
+### [RafBook](https://github.com/MihajloCumic/RafBook)
+- Distributed system for managing text files and images.
+- Functionalities: adding files, retrieving files, deleting files.
+- Optimized System Topology: The organization of the system enables faster searching and retrieval of files (Distributed Hash Table).
+- Fault Tolerance: The system is resistant to failures and provides data recovery options.
+- Developed solely in `Java`
+### [Concurrent Matrix Solver](https://github.com/MihajloCumic/ConcurrentMatrixSolver)
+- The Matrix Solver system is designed to support the multiplication of pre-defined matrices of arbitrary sizes.
+- This operation is performed concurrently, with the ability to add new matrices as well as view the results of individual matrices and display all matrices.
+- Developed solely in `Java`
+##
+### `Kafka`
+***
+### [Hacker News Kafka](https://github.com/MihajloCumic/HackerNewsKafka)
+- This project is a `Java` application that integrates Kafka producers and consumers to process data from the Hacker News API.
 ##
 ### `Core Java`
 ***
