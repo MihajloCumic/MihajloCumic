@@ -23,8 +23,23 @@ I'm a 4th-year Computer Science student, passionate about backend development, d
 ##
 ### `Core Java`
 ***
+### [Mini Web Framework](https://github.com/MihajloCumic/Mini-Web-Framework)
+- This project implements a mini web framework inspired by JAX-RS and Spring.
+- The framework is designed around controllers that handle incoming requests and generate JSON responses.
+- It supports dependency injection at the controller level.
 ### [Java Class Dependency Validator](https://github.com/MihajloCumic/ClasspathValidator)
 - Java library that provides a way to validate whether a Java class can be run with a classpath made out of a list of passed jars.
+### [SQL to MongoQL Translator](https://github.com/MihajloCumic/SQL_To_MongoQL_Translator)
+- Developed a tool for user interaction with MongoDB using SQL queries.
+- The tool allows users to write SQL queries which will be translated to MongoQL and executed in the MongoDB database.
+- GUI is based on `Java Swing`, it supports user interaction with the database similar to the Live SQL tool.
+### [SQL Query Builder](https://github.com/MihajloCumic/SQLQueryBuilder)
+- Java-based library that helps generate SQL queries using a custom, user-friendly query syntax.
+- It comes with a graphical user interface (GUI) built using `Java Swing`, which allows users to write queries in a simple manner.
+- The resulting tables are displayed in the GUI.
+### [GeRuMap](https://github.com/MihajloCumic/GeRuMap)
+- GeRuMap is software that provides an environment and tools for creating and editing mind maps
+- Built with `Java Swing`.
 
 ##
 ### `Machine learning and Genetic algorithms`
@@ -39,6 +54,17 @@ I'm a 4th-year Computer Science student, passionate about backend development, d
 - Applied the k-nearest neighbors (k-NN) algorithm to classify passengers based on the dataset `spaceship-titanic.csv`.
 ### [Polinomial Regression](https://github.com/MihajloCumic/PolynomialRegression)
 - Training polynomial regression models of varying degrees and exploring the effects of L2 regularization.
+##
+### `C and Operating Systems`
+***
+### [Multithreading in C](https://github.com/MihajloCumic/MultithreadingInC)
+- This project implements a C program for Linux that allows searching through a directory structure and finding prime numbers in the files within that structure.
+### [Operating Systems Project 1](https://github.com/MihajloCumic/OperatingSystemsProject1)
+- This project adds functionality to change the text and background colors in the XV6 operating system.
+- Supports a color selection table that allows users to navigate and select items.
+### [Operating Systems Project 2](https://github.com/MihajloCumic/OperatingSystemsProject2)
+- This project focuses on creating, reading, writing, editing, and deleting large files using double indirect pointers in the inode structure for the XV6 operating system.
+- Along with implementing encryption for specific files on disk.
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MihajloCumic&layout=compact&langs_count=8&theme=dark)
 ***
