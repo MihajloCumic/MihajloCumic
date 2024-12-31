@@ -44,6 +44,8 @@
 - This project implements a mini web framework inspired by JAX-RS and Spring.
 - The framework is designed around controllers that handle incoming requests and generate JSON responses.
 - It supports dependency injection at the controller level.
+### [Simple Interpreter](https://github.com/MihajloCumic/SimpleInterpeter)
+- This `Java` project implements an interpreter for a simple programming language that supports variable assignment, scoped operations, and variable printing.
 ### [Java Class Dependency Validator](https://github.com/MihajloCumic/ClasspathValidator)
 - Java library that provides a way to validate whether a Java class can be run with a classpath made out of a list of passed jars.
 ### [SQL to MongoQL Translator](https://github.com/MihajloCumic/SQL_To_MongoQL_Translator)
