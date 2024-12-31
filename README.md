@@ -36,7 +36,7 @@
 ### `Kafka`
 ***
 ### [Hacker News Kafka](https://github.com/MihajloCumic/HackerNewsKafka)
-- This project is a `Java` application that integrates Kafka producers and consumers to process data from the Hacker News API.
+- This project is a `Java` application that integrates Kafka producers and consumers to collect data into csv files from the Hacker News API.
 ##
 ### `Core Java`
 ***
