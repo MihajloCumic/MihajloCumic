@@ -13,6 +13,11 @@
 - [**User Managment Service**](https://github.com/MihajloCumic/User-Managment-System)
 - [**Frontend**](https://github.com/MihajloCumic/Vacuum-Service-Frontend)
 - Technologies used: `Java`, `Spring Boot`, `PostgreSQL`,`RabbitMQ`, `Angular`
+### User Management System
+- This project is a web application for managing users and their permissions. It supports CRUD operations on users and ensures request authorization based on a defined set of permissions.
+- [**Backend**](https://github.com/MihajloCumic/User-Managment-System)
+- [**Frontend**](https://github.com/MihajloCumic/User-Mangment-System_Frontend)
+- Technologies used: `Java`, `Spring Boot`, `Spring Security`, `PostgreSQL`, `Angular`
 ### Bookstore Web Application
 - [**Backend**](https://github.com/MihajloCumic/BookstoreBackend)
    - The backend consists of three microservices: app.js (handles core application logic), app_auth.js (manages authentication), and app_rest.js (exposes REST APIs).
