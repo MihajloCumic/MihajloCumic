@@ -1,6 +1,7 @@
 # Hi there! I'm Mihajlo 👋
+### Advent of Code 2024
+Solutions for days 3 - 12, [**AOC-2024**](https://github.com/MihajloCumic/AoC-2024).
 # 🛠️ Projects
-
 ### `Web Development & Microservices Projects`
 ***
 ### Backend for a banking application [(repo)](https://github.com/MihajloCumic/Banka-2-Backend)
